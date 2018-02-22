@@ -1,0 +1,203 @@
+[
+    "index.md",
+    {
+        "attr": {
+            "data-background": "images/map-man.png",
+            "data-background-size": "600px",
+            "data-background-color": "#414042"
+        }
+    },
+    "what-is-a-map.html",
+    {
+        "filename": "its-a-map.md",
+        "attr": {
+            "data-background": "images/akbar.jpg"
+        }
+    },
+    "maps-help-people.md",
+    {
+        "filename": "find-places.md",
+        "attr": {
+            "data-background": "images/treasure-map.jpg"
+        }
+    },
+    {
+        "filename": "get-places.md",
+        "attr": {
+            "data-background": "http://static.ibnlive.in.com/ibnlive/pix/sitepix/03_2012/car-navigation-300312.jpg"
+        }
+    },
+    {
+        "filename": "understand-the-world.md",
+        "attr": {
+            "data-background": "images/windity.png"
+        }
+    },
+    "how-do-we-make-maps.md",
+    {
+        "attr": {
+            "data-background": "http://i.imgur.com/ggUhh.gif"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/navigation-map-and-compass-hd-1.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "https://www.e-education.psu.edu/geog480/sites/www.e-education.psu.edu.geog480/files/geog883/image/L05_fig02.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/digitizing_table.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/669844main_LDCM_still_Gulf_Coast_side_view_1280x720.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/sat_interp_high_res.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/500-si_hiw_gps_fa_la2534dc_0.jpg",
+            "data-background-size": "auto 100%",
+            "data-background-color": "#000"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "https://c2.staticflickr.com/2/1299/4682545508_acede49145_z.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "https://www.metricwire.com/wp-content/uploads/2014/03/2014-02-28-11.12.04.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/LiDAR-Escaneo-Ejemplo.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/0c7a652.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/laser_technologies_totalsight_denver_1200x399-100K.jpg",
+            "data-background-size": "100%",
+            "data-background-color": "#000"
+        }
+    },
+    "gis.md",
+    {
+        "attr": {
+            "data-background": "images/gis-system.jpg",
+            "data-background-size": "740px",
+            "data-background-color": "#fff"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "http://www.cerc.co.uk/environmental-software/assets/img/tools/CERC_ArcGIS_tools_3.jpg",
+            "data-background-size": "768px"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/responsive-web-gis.png",
+            "data-background-size": "720px",
+            "data-background-color": "#e8e8e8"
+        }
+    },
+    "cool-maps.md",
+    "more-cool-maps.md",
+    "what-do-i-do.md",
+    {
+        "attr": {
+            "data-background": "http://i.imgur.com/lz7hOlC.gif"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/sublime-screenshot.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/computer_pov.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/20160618102315-Travelentrepreneurs.jpeg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/0TT6m.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/desk-toys.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/startup-photos.jpg"
+        }
+    },
+    "skills.md",
+    {
+        "filename": "math-english.md",
+        "attr": {
+            "data-background": "images/01.CustomJSBefore.png",
+            "data-background-size": "935px",
+            "data-background-color": "#272823"
+        }
+    },
+    {
+        "filename": "art-design.md",
+        "attr": {
+            "data-background": "images/uscx-large.jpg"
+        }
+    },
+    {
+        "filename": "speak-teach.md",
+        "attr": {
+            "data-background": "images/C6Rg7JqU0AEjtqb.jpg"
+        }
+    },
+    {
+        "filename": "teamwork.md",
+        "attr": {
+            "data-background": "images/program-page-copa.jpg"
+        }
+    },
+    {
+        "filename": "hour-of-code.md",
+        "attr": {
+            "data-background": "images/hour-of-code-1200x-1.jpg",
+            "data-background-size": "100%",
+            "data-background-color": "#000"
+        }
+    },
+    {
+        "filename": "you-can-do-this-too.md",
+        "attr": {
+            "data-background": "images/mapping-boy.jpg"
+        }
+    },
+    "johnson-family-history.md",
+    "thank-you.md"
+]
